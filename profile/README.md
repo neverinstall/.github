@@ -2,7 +2,7 @@ _Your Browser is_new_Operating System_
 
 # Welcome to Neverinstall 🚀🚀🚀
 
-<a href="https://neverinstall.com/spaces/?utm_source=github&utm_medium=social&utm_content=website&utm_campaign=null&utm_term=website"><img src="./ni_spaces.png" width="100%" alt="neverinstall spaces"></a>
+<a href="https://neverinstall.com/spaces/?utm_source=github&utm_medium=social&utm_content=website&utm_campaign=null&utm_term=website"><img src="https://github.com/neverinstall/.github/blob/main/profile/ni_spaces.png?raw=true" width="100%" alt="neverinstall spaces"></a>
 
 <h3 align="center">
   <b><a href="https://neverinstall.com/spaces/?utm_source=github&utm_medium=social&utm_content=website&utm_campaign=null&utm_term=website">Get Started</a></b>
